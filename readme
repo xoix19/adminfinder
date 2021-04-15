@@ -1,0 +1,9 @@
+tools for parrot/kali/arch
+not android or termux
+how to run:
+su
+apt update
+apt install bash
+git clone https://github.com/xoix19/adminfinder
+cd adminfinder
+sh primary.sh
